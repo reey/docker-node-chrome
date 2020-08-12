@@ -4,13 +4,13 @@ Dockerfile for nodejs + chrome.
 
 ## On docker hub
 
-https://hub.docker.com/r/amio/node-chrome/
+https://hub.docker.com/r/reey/node-chrome
 
 This [Dockerfile](/Dockerfile) contains:
 
-- node: 12
+- node: [latest](https://hub.docker.com/_/node)
 - npm: (bundled with node)
-- google-chrome: 76
+- google-chrome: latest stable
 
 ## Lincense
 
